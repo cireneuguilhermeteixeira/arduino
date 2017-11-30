@@ -7,5 +7,5 @@ Esse projeto foi desenvolvido por:
 Celso Ernani,
 Cireneu Guilherme (eu),
 Guilherme Lima,
-Marcelo de Sousa,
+Marcelo de Sousa.
 Todos aluno de Engenharia de Computação do Semestre 2016.1 do IFCE.
